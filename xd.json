@@ -1,0 +1,30 @@
+[
+    {
+        "1": "FC Barcelona",
+        "2": "Real Madryt",
+        "3": "AC Milan",
+        "4": "PSG",
+        "koszyk":1
+    },
+    {
+        "1": "Juventus",
+        "2": "BVB",
+        "3": "Atletico Madryt",
+        "4": "FC Porto",
+        "koszyk":2
+    },
+    {
+        "1": "Crvena Zvezda",
+        "2": "Wolfsburg",
+        "3": "Napoli",
+        "4": "Ajax",
+        "koszyk":3
+    },
+    {
+        "1": "Polonia Bytom",
+        "2": "Man Utd",
+        "3": "AS Monaco",
+        "4": "Valencia",
+        "koszyk":4
+    }
+]
